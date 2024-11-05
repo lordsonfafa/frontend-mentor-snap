@@ -1,0 +1,19 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.image {
+  height: 30rem;
+  width: auto;
+}
+
+.buttonlearn:hover {
+  background-color: white;
+  color: black;
+}
+@media (min-width: 1000px) {
+  /* button {
+    background-color: white;
+    color: black;
+  } */
+}
